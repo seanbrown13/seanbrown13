@@ -1,0 +1,16 @@
+*.swp
+*~
+*.log
+*.kate-swp
+*.aux
+*.bbl
+*.blg
+*.lof
+*.log
+*.lot
+*.out
+*.bcf
+*.toc
+*.synctex.gz*
+*.run.xml*
+*-blx.bib*
